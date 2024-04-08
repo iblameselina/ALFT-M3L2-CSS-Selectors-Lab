@@ -1,16 +1,123 @@
 
+.redline {
+  color: white;
+  background-color: red;
+  border-radius: 100%; 
+  height: 50px; 
+  width: 50px;
+  text-align: center;
+  border-color: black;
+  border-style: solid;
+  border-width: 5px;
+}
+
+.dgreen {
+  color: white;
+  background-color: green;
+  border-radius: 100%; 
+  height: 50px; 
+  width: 50px;
+  text-align: center;
+  border-color: black;
+  border-style: solid;
+  border-width: 5px;
+}
+
+.blue{
+  color: white;
+  background-color: #1616d4;
+  border-radius: 100%; 
+  height: 50px; 
+  width: 50px;
+  text-align: center;
+  border-color: black;
+  border-style: solid;
+  border-width: 5px;
+}
+
+.orange{
+  color: white;
+  background-color: #ff7300;
+  border-radius: 100%; 
+  height: 50px; 
+  width: 50px;
+  text-align: center;
+  border-color: black;
+  border-style: solid;
+  border-width: 5px;
+}
+
+.yell {
+  color: black;
+  background-color: gold;
+  border-radius: 100%; 
+  height: 50px; 
+  width: 50px;
+  text-align: center;
+  border-color: black;
+  border-style: solid;
+  border-width: 5px;
+}
+.brown {
+  color: white;
+  background-color: #905214;
+  border-radius: 100%; 
+  height: 50px; 
+  width: 50px;
+  text-align: center;
+  border-color: black;
+  border-style: solid;
+  border-width: 5px;
+}
+
+.purp{
+  color: white;
+  background-color: #b120b1;
+  border-radius: 100%; 
+  height: 50px; 
+  width: 50px;
+  text-align: center;
+  border-color: black;
+  border-style: solid;
+  border-width: 5px;
+}
+
+.lightg{
+  color: white;
+  background-color: #d6d6d6;
+  border-radius: 100%; 
+  height: 50px; 
+  width: 50px;
+  text-align: center;
+  border-color: black;
+  border-style: solid;
+  border-width: 5px;
+}
 
 
+.darkg{
+  color: white;
+  background-color: #988b8b;
+  border-radius: 100%; 
+  height: 50px; 
+  width: 50px;
+  text-align: center;
+  border-color: #000000;
+  border-style: solid;
+  border-width: 5px;
+}
 
-
-
-
-
-
-
-
-
-
+.lightgreen {
+  color: white;
+  background-color: #9ac757;
+  border-radius: 100%; 
+  height: 50px;
+  width: 50px;
+  text-align: center;
+  border-color: black;
+  border-style: solid;
+  border-width: 5px;
+}
 
 
 
@@ -27,6 +134,10 @@
 
 body {
   font-family: Helvetica, Arial, sans-serif;
+
+background-image: url("https://i.pinimg.com/736x/2a/1a/91/2a1a91d417c99110d88a9da04c8e11b0.jpg");
+
+  
 }
 
 h1 {
